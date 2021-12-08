@@ -2,4 +2,5 @@ Capstone 3 Proposal:
 
 When users create reviews on Yelp there are multiple factors that go into their ranking. People priortize different factors. Whether the hotel is close to restaurants/shopping, does it have breakfast, does it have a restaurant, how far it is from the airport.
 
-In this project we will sort through the user reviews and use natural language processing to find what seems to be the most determing factors for high and low rankings
+In this project we will sort through the user reviews and use natural language processing to find the highest ranked hotels that prioritize cleanliness in their reviews.
+
